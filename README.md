@@ -1,4 +1,4 @@
-# Seller_Dashboard
+## Seller_Dashboard
 
 ### In this project , I made the dummy of seller dashboard in with they can create their products on their personal dashboards only by using nodeJs and its expressJs framework.
 
@@ -6,5 +6,5 @@
 
 ### In that without using params they can update their personal profile only because I have store their name on cookies .
 
-###For looking the homepage , I have used mongoDB populate query .
+### For looking the homepage , I have used mongoDB populate query .
 
